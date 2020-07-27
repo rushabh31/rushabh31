@@ -9,7 +9,7 @@
     <br><br>
     I believe never stop learning because life never stops teaching :grin:
     <br><br>
-     Visit my Personal Portfolio: (https://rushabh.info) :v:
+     For more details visit here: (https://rushabh.info) :v:
   </samp>
 </p>
 
