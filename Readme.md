@@ -7,7 +7,7 @@
     <br><br>
     Applied Data Scientist
     <br><br>
-    I believe in a world where a cup of coffee :coffee: can solve all problems :grin:
+    I believe never stop learning because life never stops teaching :grin:
     <br><br>
     P.S. I do know that HTML is not a programming language! :v:
   </samp>
