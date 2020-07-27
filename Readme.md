@@ -9,7 +9,7 @@
     <br><br>
     I believe never stop learning because life never stops teaching :grin:
     <br><br>
-    P.S. I do know that HTML is not a programming language! :v:
+     ![Visit Personal Portfolio](https://rushabh.info) :v:
   </samp>
 </p>
 
