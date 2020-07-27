@@ -66,9 +66,12 @@ I joined DBHi at Children's Hospital of Philadelphia as a Data Scientist in the 
 
 #### Let's get connected
 
-[![Linkedin URL](https://img.shields.io/badge/rushabh-2978B1?style=for-the-badge&labelColor=2f9ceb&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rushabhpatel5/)](https://www.linkedin.com/in/rushabhpatel5/)
-[![Instagram URL](https://img.shields.io/badge/rushabh-7537B6?style=for-the-badge&labelColor=EA8139&logo=instagram&logoColor=white&link=https://www.instagram.com/rushabhpatel5)](https://www.instagram.com/rushabhpatel5) 
-[![Gmail URL](https://img.shields.io/badge/rushabh.patel5@gmail.com-c14438?style=for-the-badge&labelColor=e85d4f&logo=gmail&logoColor=white&link=mailto:rushabh.patel5@gmail.com)](mailto:rushabh.patel5@gmail.com)
+<a href="https://www.linkedin.com/in/rushabhpatel5"><img src="https://github.com/rushabh31/rushabh31/blob/master/assets/linkedin.png" width="40" /></a>
+<a href="https://github.com/rushabh31"><img src="https://github.com/rushabh31/rushabh31/blob/master/assets/github-logo.png" width="40" /></a>
+<a href="mailto:rushabh.patel5@gmail.com"><img src="https://github.com/rushabh31/rushabh31/blob/master/assets/gmail.png" width="40" /></a>
+<a href="https://twitter.com/rushabhpatel5"><img src="https://github.com/rushabh31/rushabh31/blob/master/assets/twitter.png" width="40" /></a>
+
+
 
 </div>
 
