@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Smruti Ranjan Rana's GitHub States](https://github-readme-stats.vercel.app/api?username=devsmranjan&show_icons=true&theme=dark)
+![Rushabh's GitHub States](https://github-readme-stats.vercel.app/api?username=rushabh31&show_icons=true&theme=dark)
 
 </div>
 
@@ -34,7 +34,7 @@ I'm a final student pursuing Bachelors's in Computer Science & Engineering 🎓 
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsmranjan&theme=dark&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushabh31&theme=dark&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <br>
