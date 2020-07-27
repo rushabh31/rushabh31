@@ -69,7 +69,7 @@ I'm a final student pursuing Bachelors's in Computer Science & Engineering 🎓 
 
 [![Linkedin URL](https://img.shields.io/badge/devsmranjan-2978B1?style=for-the-badge&labelColor=2f9ceb&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rushabhpatel5/)](https://www.linkedin.com/in/rushabhpatel5/)
 [![Instagram URL](https://img.shields.io/badge/devsmranjan-7537B6?style=for-the-badge&labelColor=EA8139&logo=instagram&logoColor=white&link=https://www.instagram.com/rushabhpatel5)](https://www.instagram.com/rushabhpatel5) 
-[![Gmail URL](https://img.shields.io/badge/smrutiranjan.developer@gmail.com-c14438?style=for-the-badge&labelColor=e85d4f&logo=gmail&logoColor=white&link=mailto:rushabh.patel5@gmail.com)](mailto:rushabh.patel5@gmail.com)
+[![Gmail URL](https://img.shields.io/badge/rushabh.patel5@gmail.com-c14438?style=for-the-badge&labelColor=e85d4f&logo=gmail&logoColor=white&link=mailto:rushabh.patel5@gmail.com)](mailto:rushabh.patel5@gmail.com)
 
 </div>
 
