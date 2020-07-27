@@ -44,9 +44,12 @@ I'm a final student pursuing Bachelors's in Computer Science & Engineering 🎓 
 
 #### Skills & Tools
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-e3b500?style=for-the-badge&labelColor=F4D148&logo=javascript&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![Dart](https://img.shields.io/badge/Dart-155598?style=for-the-badge&labelColor=44B2EF&logo=dart&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![Python](https://img.shields.io/badge/Python-376D9C?style=for-the-badge&labelColor=F3CB47&logo=python&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![Java](https://img.shields.io/badge/Java-2B738B?style=for-the-badge&labelColor=fa7f11&logo=java&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan)
+[![JavaScript](https://img.shields.io/badge/JavaScript-e3b500?style=for-the-badge&labelColor=F4D148&logo=javascript&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) 
+[![Dart](https://img.shields.io/badge/Dart-155598?style=for-the-badge&labelColor=44B2EF&logo=dart&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) 
+[![Python](https://img.shields.io/badge/Python-376D9C?style=for-the-badge&labelColor=F3CB47&logo=python&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) 
+[![Java](https://img.shields.io/badge/Java-2B738B?style=for-the-badge&labelColor=fa7f11&logo=java&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan)
 
-[![Node JS](https://img.shields.io/badge/Node%20JS-72b30b?style=for-the-badge&labelColor=8DBF3D&logo=node.js&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![Django](https://img.shields.io/badge/Django-1D4B33?style=for-the-badge&labelColor=54BE95&logo=django&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan)
+
 
 [![React JS](https://img.shields.io/badge/React%20JS-04afde?style=for-the-badge&labelColor=2bcffc&logo=react&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![HTML5](https://img.shields.io/badge/HTML5-E85E34?style=for-the-badge&labelColor=ff8a63&logo=html5&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![CSS3](https://img.shields.io/badge/CSS3-206DB5?style=for-the-badge&labelColor=3FA4D9&logo=css3&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![Flutter](https://img.shields.io/badge/Flutter-155598?style=for-the-badge&labelColor=44B2EF&logo=flutter&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan)
 
@@ -64,7 +67,9 @@ I'm a final student pursuing Bachelors's in Computer Science & Engineering 🎓 
 
 #### Let's get connected
 
-[![Twitter URL](https://img.shields.io/badge/devsmranjan-blue?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/devsmranjan)](https://twitter.com/devsmranjan) [![Facebook URL](https://img.shields.io/badge/devsmranjan-4064AD?style=for-the-badge&labelColor=547dd1&logo=facebook&logoColor=white&link=https://www.facebook.com/devsmranjan)](https://www.facebook.com/devsmranjan) [![Linkedin URL](https://img.shields.io/badge/devsmranjan-2978B1?style=for-the-badge&labelColor=2f9ceb&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/devsmranjan)](https://www.linkedin.com/in/devsmranjan) [![Instagram URL](https://img.shields.io/badge/devsmranjan-7537B6?style=for-the-badge&labelColor=EA8139&logo=instagram&logoColor=white&link=https://www.instagram.com/devsmranjan)](https://www.instagram.com/devsmranjan) [![Gmail URL](https://img.shields.io/badge/smrutiranjan.developer@gmail.com-c14438?style=for-the-badge&labelColor=e85d4f&logo=gmail&logoColor=white&link=mailto:smrutiranjan.developer@gmail.com)](mailto:smrutiranjan.developer@gmail.com)
+[![Linkedin URL](https://img.shields.io/badge/devsmranjan-2978B1?style=for-the-badge&labelColor=2f9ceb&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rushabhpatel5/)](https://www.linkedin.com/in/rushabhpatel5/)
+[![Instagram URL](https://img.shields.io/badge/devsmranjan-7537B6?style=for-the-badge&labelColor=EA8139&logo=instagram&logoColor=white&link=https://www.instagram.com/rushabhpatel5)](https://www.instagram.com/rushabhpatel5) 
+[![Gmail URL](https://img.shields.io/badge/smrutiranjan.developer@gmail.com-c14438?style=for-the-badge&labelColor=e85d4f&logo=gmail&logoColor=white&link=mailto:rushabh.patel5@gmail.com)](mailto:rushabh.patel5@gmail.com)
 
 </div>
 
