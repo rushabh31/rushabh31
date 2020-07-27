@@ -1,11 +1,11 @@
 <p align="center">
 
-  <img src="https://github.com/devsmranjan/devsmranjan/blob/master/assets/smruti-ranjan-rana.png" alt="smruti ranjan rana" width="16%">
+  <img src="https://github.com/rushabh31/rushabh31.github.io/blob/build/src/assests/images/rushabh-img.png" alt="smruti ranjan rana" width="16%">
   <br><br>
   <samp>
-    I'm Smruti Ranjan Rana :wave:
+    I'm Rushabh :wave:
     <br><br>
-    Fullstack Web Developer | Flutter Developer
+    Applied Data Scientist
     <br><br>
     I believe in a world where a cup of coffee :coffee: can solve all problems :grin:
     <br><br>
