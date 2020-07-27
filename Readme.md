@@ -28,8 +28,7 @@
 #### About Me
 
 <p>
-I'm a final student pursuing Bachelors's in Computer Science & Engineering 🎓 from Orissa Engineering College, Bhubaneswar  🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Fullstack Web Development 🕸️ and Flutter Development 🤓.
-</p>
+I joined DBHi at Children's Hospital of Philadelphia as a Data Scientist in the summer of 2020. Before joining DBHi, I was working as a Data Scientist for the Visiting Nurse Service of New York, where my role was to engineer computational solutions and develop algorithms. Working in this field for more than three years, my expertise lies in statistical, predictive and quantitative modeling which employs machine learning methods. I hold a Master’s degree in Computer Science from University of Illinois and is pursuing PhD in Computer Science from Temple University. I likes to contribute to open source community and my latest contribution was creating a VisitContactTrace R, which helps small home care facilities to contact trace infectious diseases (like COVID’19).</p>
 
 <br>
 <br>
