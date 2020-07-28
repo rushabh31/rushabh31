@@ -1,9 +1,9 @@
 <p align="center">
 
-  <img src="https://github.com/rushabh31/rushabh31.github.io/blob/build/src/assests/images/rushabh-img.png" alt="smruti ranjan rana" width="16%">
+  <img src="https://github.com/rushabh31/rushabh31.github.io/blob/build/src/assests/images/rushabh-img.png" alt="rushabh patel" width="16%">
   <br><br>
   <samp>
-    I'm Rushabh :wave:
+    I'm Rushabh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
     <br><br>
     Applied Data Scientist
     <br><br>
