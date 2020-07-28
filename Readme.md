@@ -43,15 +43,16 @@ I joined Department of Biomedical Health & Informatics (DBHi) at Children's Hosp
 
 #### Skills & Tools
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-e3b500?style=for-the-badge&labelColor=F4D148&logo=javascript&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/rushabh31) 
+
 [![R](https://img.shields.io/badge/R-457b9d?style=for-the-badge&labelColor=black&logo=R&logoColor=blue&link=https://github.com/rushabh31)](https://github.com/rushabh31)
 [![Python](https://img.shields.io/badge/Python-376D9C?style=for-the-badge&labelColor=F3CB47&logo=python&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31) 
 [![Java](https://img.shields.io/badge/Java-2B738B?style=for-the-badge&labelColor=fa7f11&logo=java&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31)
+[![JavaScript](https://img.shields.io/badge/JavaScript-e3b500?style=for-the-badge&labelColor=F4D148&logo=javascript&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/rushabh31) 
 
 
 
-[![React JS](https://img.shields.io/badge/React%20JS-04afde?style=for-the-badge&labelColor=2bcffc&logo=react&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31)
-[![HTML5](https://img.shields.io/badge/HTML5-E85E34?style=for-the-badge&labelColor=ff8a63&logo=html5&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31) [![CSS3](https://img.shields.io/badge/CSS3-206DB5?style=for-the-badge&labelColor=3FA4D9&logo=css3&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31) [![Flutter](https://img.shields.io/badge/Flutter-155598?style=for-the-badge&labelColor=44B2EF&logo=flutter&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31)
+
+[![HTML5](https://img.shields.io/badge/HTML5-E85E34?style=for-the-badge&labelColor=ff8a63&logo=html5&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31) [![CSS3](https://img.shields.io/badge/CSS3-206DB5?style=for-the-badge&labelColor=3FA4D9&logo=css3&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31)
 
 [![My SQL](https://img.shields.io/badge/My%20SQL-DD8B38?style=for-the-badge&labelColor=205F87&logo=mysql&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-32648D?style=for-the-badge&labelColor=4b8dc4&logo=postgresql&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31)
 
