@@ -28,7 +28,7 @@
 #### About Me
 
 <p>
-I joined DBHi at Children's Hospital of Philadelphia as a Data Scientist in the summer of 2020. Before joining DBHi, I was working as a Data Scientist for the Visiting Nurse Service of New York, where my role was to engineer computational solutions and develop algorithms. Working in this field for more than three years, my expertise lies in statistical, predictive and quantitative modeling which employs machine learning methods. I hold a Master’s degree in Computer Science from University of Illinois and is pursuing PhD in Computer Science from Temple University. I likes to contribute to open source community and my latest contribution was creating a VisitContactTrace R, which helps small home care facilities to contact trace infectious diseases (like COVID’19).</p>
+I joined Department of Biomedical Health & Informatics (DBHi) at Children's Hospital of Philadelphia as a Applied Data Scientist II in the summer of 2020. Before joining DBHi, I was working as a Data Scientist for the Visiting Nurse Service of New York, where my role was to engineer computational solutions and develop algorithms. Working in this field for more than three years, my expertise lies in statistical, predictive and quantitative modeling which employs machine learning methods. I hold a Master’s degree in Computer Science from University of Illinois and is pursuing PhD in Computer Science from Temple University. I likes to contribute to open source community and my latest contribution was creating a VisitContactTrace R, which helps small home care facilities to contact trace infectious diseases (like COVID’19).</p>
 
 <br>
 <br>
@@ -44,13 +44,14 @@ I joined DBHi at Children's Hospital of Philadelphia as a Data Scientist in the 
 #### Skills & Tools
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-e3b500?style=for-the-badge&labelColor=F4D148&logo=javascript&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/rushabh31) 
-[![Dart](https://img.shields.io/badge/Dart-155598?style=for-the-badge&labelColor=44B2EF&logo=dart&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31) 
+[![R](https://img.shields.io/badge/R-457b9d?style=for-the-badge&labelColor=black&logo=R&logoColor=blue&link=https://github.com/rushabh31)](https://github.com/rushabh31)
 [![Python](https://img.shields.io/badge/Python-376D9C?style=for-the-badge&labelColor=F3CB47&logo=python&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31) 
 [![Java](https://img.shields.io/badge/Java-2B738B?style=for-the-badge&labelColor=fa7f11&logo=java&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31)
 
 
 
-[![React JS](https://img.shields.io/badge/React%20JS-04afde?style=for-the-badge&labelColor=2bcffc&logo=react&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31) [![HTML5](https://img.shields.io/badge/HTML5-E85E34?style=for-the-badge&labelColor=ff8a63&logo=html5&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31) [![CSS3](https://img.shields.io/badge/CSS3-206DB5?style=for-the-badge&labelColor=3FA4D9&logo=css3&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31) [![Flutter](https://img.shields.io/badge/Flutter-155598?style=for-the-badge&labelColor=44B2EF&logo=flutter&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31)
+[![React JS](https://img.shields.io/badge/React%20JS-04afde?style=for-the-badge&labelColor=2bcffc&logo=react&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31)
+[![HTML5](https://img.shields.io/badge/HTML5-E85E34?style=for-the-badge&labelColor=ff8a63&logo=html5&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31) [![CSS3](https://img.shields.io/badge/CSS3-206DB5?style=for-the-badge&labelColor=3FA4D9&logo=css3&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31) [![Flutter](https://img.shields.io/badge/Flutter-155598?style=for-the-badge&labelColor=44B2EF&logo=flutter&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31)
 
 [![Mongo DB](https://img.shields.io/badge/Mongo%20DB-449743?style=for-the-badge&labelColor=5fd45d&logo=mongodb&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31) [![Firebase](https://img.shields.io/badge/Firebase-EEA23F?style=for-the-badge&labelColor=F2C545&logo=firebase&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31) [![My SQL](https://img.shields.io/badge/My%20SQL-DD8B38?style=for-the-badge&labelColor=205F87&logo=mysql&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-32648D?style=for-the-badge&labelColor=4b8dc4&logo=postgresql&logoColor=white&link=https://github.com/rushabh31)](https://github.com/rushabh31)
 
