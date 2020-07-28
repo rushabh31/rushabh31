@@ -1,9 +1,8 @@
 <p align="center">
-
   <img src="https://github.com/rushabh31/rushabh31.github.io/blob/build/src/assests/images/rushabh-img.png" alt="rushabh patel" width="16%">
   <br><br>
   <samp>
-    I'm Rushabh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+    <img align="center" src="https://github.com/rushabh31/rushabh31/blob/master/assets/welcome.gif" alt="rushabh patel">
     <br><br>
     I believe never stop learning because life never stops teaching :grin:
     <br><br>
