@@ -25,7 +25,7 @@
 #### About Me
 
 <p>
-I joined Department of Biomedical Health & Informatics (DBHi) at Children's Hospital of Philadelphia as a Applied Data Scientist II in the summer of 2020. Before joining DBHi, I was working as a Data Scientist for the Visiting Nurse Service of New York, where my role was to engineer computational solutions and develop algorithms. Working in this field for more than three years, my expertise lies in statistical, predictive and quantitative modeling which employs machine learning methods. I hold a Master’s degree in Computer Science from University of Illinois and is pursuing PhD in Computer Science from Temple University. I likes to contribute to open source community and my latest contribution was creating a VisitContactTrace R, which helps small home care facilities to contact trace infectious diseases (like COVID’19).</p>
+I joined Department of Biomedical Health & Informatics (DBHi) at Children's Hospital of Philadelphia as a Applied Data Scientist II in the summer of 2020. Before joining DBHi, I was working as a Data Scientist for the Visiting Nurse Service of New York, where my role was to engineer computational solutions and develop algorithms. Working in this field for more than three years, my expertise lies in statistical, predictive and quantitative modeling which employs machine learning methods. I hold a Master’s degree in Computer Science from University of Illinois and is pursuing PhD in Computer Science from Temple University. I like to contribute to open source community and my latest contribution was creating a VisitContactTrace R, which helps small home care facilities to contact trace infectious diseases (like COVID’19).</p>
 
 <br>
 <br>
