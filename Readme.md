@@ -5,8 +5,6 @@
   <samp>
     I'm Rushabh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
     <br><br>
-    Applied Data Scientist
-    <br><br>
     I believe never stop learning because life never stops teaching :grin:
     <br><br>
      For more details visit here: (https://rushabh.info) :v:
