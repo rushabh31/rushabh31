@@ -77,8 +77,7 @@ I joined DBHi at Children's Hospital of Philadelphia as a Data Scientist in the 
 
 <br/>
 
-<p align="center">
-  Open to anything under the stars :sparkles:
-</p>
 
+<center>
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=rushabh31" alt="visitor badge"/>
+</center>
