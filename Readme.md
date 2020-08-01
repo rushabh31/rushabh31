@@ -7,7 +7,7 @@
     I believe never stop learning because life never stops teaching :grin: 
     <br><br>
      For more details visit here: (https://rushabh.info) :v:
-  </samp> 
+  </samp>  
 </p>
 
 <br><br>
