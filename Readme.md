@@ -1,7 +1,7 @@
 <p align="center"> 
   <img src="https://github.com/rushabh31/rushabh31.github.io/blob/build/src/assests/images/rushabh-img.png" alt="rushabh patel" width="16%"> 
   <br><br> 
-  <samp> 
+  <samp>  
     <img align="center" src="https://github.com/rushabh31/rushabh31/blob/master/assets/welcome.gif" alt="rushabh patel">
     <br><br>
     I believe never stop learning because life never stops teaching :grin: 
@@ -59,14 +59,14 @@ I joined Department of Biomedical Health & Informatics (DBHi) at Children's Hosp
 
 
 
-</div>
+</div> 
 
 
 <br/>
 
 <div align="center">
 
-#### Let's get connected
+#### Let's get connected:
 
 <a href="https://www.linkedin.com/in/rushabhpatel5"><img src="https://github.com/rushabh31/rushabh31/blob/master/assets/linkedin.png" width="40" /></a>
 <a href="https://github.com/rushabh31"><img src="https://github.com/rushabh31/rushabh31/blob/master/assets/github-logo.png" width="40" /></a>
