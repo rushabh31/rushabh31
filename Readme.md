@@ -5,7 +5,7 @@
     <img align="center" src="https://github.com/rushabh31/rushabh31/blob/master/assets/welcome.gif" alt="rushabh patel">
     <br><br>
     I believe never stop learning because life never stops teaching :grin: 
-    <br><br> 
+    <br><br>  
      For more details visit here: (https://rushabh.info) :v:
   </samp>  
 </p>
