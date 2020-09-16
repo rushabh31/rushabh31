@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center">  
   <img src="https://github.com/rushabh31/rushabh31.github.io/blob/build/src/assests/images/rushabh-img.png" alt="rushabh patel" width="16%"> 
   <br><br> 
   <samp>   
